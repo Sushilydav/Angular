@@ -1,4 +1,9 @@
-# Project
+# Here is my Angular project
+
+![Here is image](/project/img/img1.png)
+![Here is image](/project/img/img2.png)
+![Here is image](/project/img/img3.png)
+![Here is image](/project/img/img4.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
