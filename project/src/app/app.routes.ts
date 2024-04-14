@@ -6,5 +6,5 @@ import { UserProfileComponent } from './components/user-profile/user-profile.com
 export const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'registration', component: RegistrationComponent },
-  { path: 'user-profile', component: UserProfileComponent },
+  { path: 'userprofile', component: UserProfileComponent },
 ];

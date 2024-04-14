@@ -1,0 +1,21 @@
+{
+  "Users": [
+    {
+      "id": "8611",
+      "profileImage": "",
+      "firstname": "dfasdf",
+      "lastname": "sdfasdf",
+      "email": "sdf",
+      "phoneNo": 5454878,
+      "age": 22,
+      "addressType": "home",
+      "address1": "edsfdsf",
+      "address2": "sdfesdf",
+      "companyAddress1": "",
+      "companyAddress2": "",
+      "country": "london",
+      "state": "gujarat",
+      "tags": "dfs"
+    }
+  ]
+}

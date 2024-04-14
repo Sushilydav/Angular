@@ -5,6 +5,7 @@ import { HomeComponent } from './components/home/home.component';
 
 import { MatDialog } from '@angular/material/dialog';
 import { RegistrationComponent } from './components/registration/registration.component';
+import { UserProfileComponent } from './components/user-profile/user-profile.component';
 
 @Component({
   selector: 'app-root',
@@ -14,6 +15,7 @@ import { RegistrationComponent } from './components/registration/registration.co
     NavbarComponent,
     HomeComponent,
     RegistrationComponent,
+    UserProfileComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
